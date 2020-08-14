@@ -1,11 +1,11 @@
 # aad-53-lp2
-Testing Team Skills in GADS program
+## Testing Team Skills in GADS program
 
 Hi and welcome this simple test, take it as a revision just to check how much you have learnt
 
 We wish you good luck!
 
-Information:
+## Information:
 
 In the Issues section you will find an issue assigned to you with the description of the challenge.
 
@@ -16,4 +16,4 @@ Feel free to use Libraries or Frameworks that you usually work with. We expect t
 
 Take your time, do your best and good luck!
 
-HINT: usually work with MVVM and RxJava. but feel free to try out any Architecture you are comfortable wit, also incase you can use RxKotlin its well and good
+## HINT: usually work with MVVM and RxJava. but feel free to try out any Architecture you are comfortable wit, also incase you can use RxKotlin its well and good
